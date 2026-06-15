@@ -3,7 +3,9 @@
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg)](https://microsoft.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Version](https://img.shields.io/badge/Version-1.10.0-green.svg)](https://github.com/avercin16-gif/Strowaway/releases)
-
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/avercin16-gif/Strowaway)](https://github.com/avercin16-gif/Strowaway/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/avercin16-gif/Strowaway/total)](https://github.com/avercin16-gif/Strowaway/releases)
 **Strowaway Antivirus** — антивирус для Windows с простым и понятным интерфейсом. Не требует установки Python.
 
 ## 📥 Скачать
